@@ -1,7 +1,8 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif))]()
+![1](https://github.com/Vishnu200399/Vishnu200399/assets/93635977/296ecf7b-0f3f-40a7-a064-390704358499)
+
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan Janjirala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+![2](https://github.com/Vishnu200399/Vishnu200399/assets/93635977/1d944e5a-b638-4930-a76f-50b60ebced27)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu200399" alt="vishnu200399" /></a> </p>
 
