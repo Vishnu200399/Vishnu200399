@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan Janjirala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![2](https://github.com/Vishnu200399/Vishnu200399/assets/93635977/1d944e5a-b638-4930-a76f-50b60ebced27)
+![3](https://github.com/Vishnu200399/Vishnu200399/assets/93635977/410dc601-3238-47e6-b2ed-0525eaedd98b)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu200399" alt="vishnu200399" /></a> </p>
 
